@@ -15,3 +15,7 @@ class Component {
       this.imgElement = imgElement;
     }
 }
+
+class Pedro_Pascal extends Component {
+
+}
